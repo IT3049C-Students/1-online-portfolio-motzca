@@ -1,0 +1,40 @@
+body {
+  background-color: #92977E;
+  font-family: Arial, open sans, sans-serif;
+}
+
+h1 {
+  color: #EADDA6;
+  text-align: center;
+  height: 90px;
+  padding-top: 10px;
+  padding-left: 1em;
+}
+
+h2 {
+  color: #EADDA6;
+  text-align: center;
+  height: 70px;
+  padding-top: 10px;
+  padding-left: 1em;
+}
+
+p {
+  color: #FFFAE2;
+  text-align: center;
+}
+
+li {
+  color: #FFFAE2;
+  text-align: center;
+}
+
+ol {
+  color: #FFFAE2;
+  text-align: center;
+}
+
+ul {
+  color: #FFFAE2;
+  text-align: center;
+}
