@@ -1,15 +1,14 @@
 body {
   background-color: #92977E;
   font-family: Arial, open sans, sans-serif;
-}
-
-#top {
   color: #EADDA6;
   text-align: center;
   height: 90px;
   padding-top: 10px;
   padding-left: 1em;
 }
+
+
 
 #personalBackground {
   color: #FFFAE2;
@@ -24,7 +23,7 @@ body {
   padding-top: 10px;
 }
 
-#programmingLanguage {
+#programmingLanguages {
   color: #FEFCAD;
   text-align: left;
   padding-left: 40em;
